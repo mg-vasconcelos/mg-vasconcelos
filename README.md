@@ -1,16 +1,26 @@
-## Hi there 👋
+Olá, eu me chamo Marcelo, sou desenvolvedor de softwares Java a pelo menos 15 anos, apaixonado por tecnologia e programação.
 
-<!--
-**mg-vasconcelos/mg-vasconcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Falando um pouco sobre mim, tenho 40 anos, sou casado, moro no interior de São Paulo, porém estou muito próximo da capital, atualmente eu trabalho na Extreme Digital Solutions, "interno" na Secretária da Fazenda de Minas Gerais de forma full remoto.
+Tenho experiencia em:
+*  Java 7...21
+*  Spring Boot 2 e 3
+   -  WebMVC
+   -  WebFlux
+*  Spring Security
+*  SQL Server
+*  Oracle DB
+*  Actuator com Metrics
+*  Prometheus
+*  InfluxDb
+*  Grafana
+*  Elastic Search APM
+*  JUnit
+*  Mockito
+*  JPA
 
-Here are some ideas to get you started:
+Mas estou sempre buscando me atualizar, fazendo Pós Graduações na área, além de estudos dirigidos e muita pesquisa.
+Nesse momento estou focado em 2 atividades: AWS e melhorar minha compreemsão em Designs Patterns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Curiosidades:
+Sou apaixonado por aviação, já fiz cursos nessa área embora não agregue ao meu curriculo, acompanho e consumo muito sobre o assunto.
+Também sou viciado em Xadrez, (Jogar muito não significa jogar bem, rs)
