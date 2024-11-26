@@ -18,9 +18,9 @@ Tenho experiencia em:
 *  Mockito
 *  JPA
 
-Mas estou sempre buscando me atualizar, fazendo Pós Graduações na área, além de estudos dirigidos e muita pesquisa.
-Nesse momento estou focado em 2 atividades: AWS e melhorar minha compreemsão em Designs Patterns.
+Mas estou sempre buscando me atualizar, fazendo Pós-Graduações na área, além de estudos dirigidos e muita pesquisa.
+Nesse momento estou focado em 2 atividades: AWS e melhorar minha compreensão em Designs Patterns.
 
 Curiosidades:
-Sou apaixonado por aviação, já fiz cursos nessa área embora não agregue ao meu curriculo, acompanho e consumo muito sobre o assunto.
+Sou apaixonado por aviação, já fiz cursos nessa área embora não agregue ao meu currículo, acompanho e consumo muito sobre o assunto.
 Também sou viciado em Xadrez, (Jogar muito não significa jogar bem, rs)
